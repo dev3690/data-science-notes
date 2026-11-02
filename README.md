@@ -19,3 +19,4 @@ Each note also has code to try, self-check questions (answers hidden under "Show
 | 4 | Tutorial 2: Python Lists and Boolean Variables | [Notes](python/04-lists-and-booleans.md) |
 | 5 | Tutorial 3: Python Sets, Dictionaries and Tuples | [Notes](python/05-sets-dictionaries-tuples.md) |
 | 6 | Tutorial 4: NumPy and Inbuilt Functions | [Notes](python/06-numpy-and-inbuilt-functions.md) |
+| 7 | Tutorial 5: Pandas, DataFrame and Data Series (Part 1) | [Notes](python/07-pandas-part-1.md) |
